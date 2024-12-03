@@ -4,7 +4,7 @@
 **💻 Programming student constantly learning!**
 
 <p align="left">
- <img src="https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif" width="350">
+ <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBjeWpsampwMnJwZmkxMGlxN3lkd2R2cG5jeXU2YmdieGlxNXN5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NL2PDTK5cepys8h9Qy/giphy.gif">
 </p>
 
 ### 📃Tecnologias que estou estudando: 
