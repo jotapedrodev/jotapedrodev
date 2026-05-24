@@ -19,8 +19,6 @@
 
 <img align="center" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 
-<img align="center" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
 <img align="center" src="https://img.shields.io/badge/Aiven-EA6D7E?style=for-the-badge&logoColor=white"/>
 
 <img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
