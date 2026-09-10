@@ -1,21 +1,3 @@
-```
-                    jotapedrodev@github
-                    -------------------
-        .-/+oossssoo+/-.       OS: GitHub Profile OS
-    `:+ssssssssssssssssss+:`   Host: jotapedrodev
-  -+ssssssssssssssssssyyssss+-  Kernel: Full Stack Dev 5.0
- .ossssssssssssssssssdMMMNysssso. Uptime: Student since ever
-/ssssssssssshdmmNNmmyNMMMMhssssss/ Shell: bash / zsh
-+ssssssssshmydMMMMMMMNddddyssssssss+ Languages.Programming: JavaScript, Java, Python
-ossyNMMMNyMMhssssssssssssssssyNMMMMysssso Languages.Web: HTML, CSS, Bootstrap
-ossyNMMMNyMMhssssssssssssssssyNMMMMysssso Languages.Database: MySQL, MongoDB, NoSQL
-+sssssssssdmydMMMMMMMMddddyssssssss+ 
- /ssssssssssshdmNNNNmyNMMMMhssssss/  GitHub Stats:
-  .ossssssssssssssssssdMMMNysssso.   Followers: 14 | Following: 21
-    -+sssssssssssssssssyyyssss+-     Repos: 12
-      `:+ssssssssssssssssss+:`       Location: Brazil
-          .-/+oossssoo+/-.
-```
 
 <h1 align="center">Olá, eu sou o João Pedro (JotaDib) 👋</h1>
 
@@ -36,16 +18,6 @@ ossyNMMMNyMMhssssssssssssssssyNMMMMysssso Languages.Database: MySQL, MongoDB, No
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jotapedrodev&show_icons=true&theme=radical" alt="jotapedrodev stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jotapedrodev&theme=radical" alt="jotapedrodev streak" />
-</p>
 
 ### 🔥 Linguagens mais usadas
 
