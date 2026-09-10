@@ -1,32 +1,62 @@
-# :no_good: Salve!
-## 	 My name is João Pedro Dib and my nickname is JotaDib!
+```
+                    jotapedrodev@github
+                    -------------------
+        .-/+oossssoo+/-.       OS: GitHub Profile OS
+    `:+ssssssssssssssssss+:`   Host: jotapedrodev
+  -+ssssssssssssssssssyyssss+-  Kernel: Full Stack Dev 5.0
+ .ossssssssssssssssssdMMMNysssso. Uptime: Student since ever
+/ssssssssssshdmmNNmmyNMMMMhssssss/ Shell: bash / zsh
++ssssssssshmydMMMMMMMNddddyssssssss+ Languages.Programming: JavaScript, Java, Python
+ossyNMMMNyMMhssssssssssssssssyNMMMMysssso Languages.Web: HTML, CSS, Bootstrap
+ossyNMMMNyMMhssssssssssssssssyNMMMMysssso Languages.Database: MySQL, MongoDB, NoSQL
++sssssssssdmydMMMMMMMMddddyssssssss+ 
+ /ssssssssssshdmNNNNmyNMMMMhssssss/  GitHub Stats:
+  .ossssssssssssssssssdMMMNysssso.   Followers: 14 | Following: 21
+    -+sssssssssssssssssyyyssss+-     Repos: 12
+      `:+ssssssssssssssssss+:`       Location: Brazil
+          .-/+oossssoo+/-.
+```
 
-**💻 Programming student constantly learning!**
+<h1 align="center">Olá, eu sou o João Pedro (JotaDib) 👋</h1>
 
-<p align="left">
- <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBjeWpsampwMnJwZmkxMGlxN3lkd2R2cG5jeXU2YmdieGlxNXN5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NL2PDTK5cepys8h9Qy/giphy.gif">
+<p align="center">
+  <i>Estudante de Ciência da Computação • Full Stack</i>
 </p>
 
-### 📃 Tecnologias:
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-<div style="display: inline_block"><br/>
+---
 
-<img align="center" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+### 📊 GitHub Stats
 
-<img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jotapedrodev&show_icons=true&theme=radical" alt="jotapedrodev stats" />
+</p>
 
-<img align="center" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jotapedrodev&theme=radical" alt="jotapedrodev streak" />
+</p>
 
-<img align="center" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+### 🔥 Linguagens mais usadas
 
-<img align="center" src="https://img.shields.io/badge/Aiven-EA6D7E?style=for-the-badge&logoColor=white"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotapedrodev&layout=compact&theme=radical" alt="top langs" />
+</p>
 
-<img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+---
 
-<img align="center" src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/>
+### 📫 Contato
 
-
-</div>
-
-
-</div>
+- 💼 LinkedIn: [joao-pedro-dib-garcia-silva-635945406](https://www.linkedin.com/in/joao-pedro-dib-garcia-silva-635945406/)
+- 📸 Instagram: [@eujotadib](https://www.instagram.com/eujotadib/)
+- 🐙 GitHub: [@jotapedrodev](https://github.com/jotapedrodev)
