@@ -26,6 +26,6 @@ Estudante de Ciência da Computação, apaixonado por desenvolvimento Full Stack
 
 ### 📫 Contato
 
-- 💼 LinkedIn: [joao-pedro-dib-garcia-silva-635945406](https://www.linkedin.com/in/joao-pedro-dib-garcia-silva-635945406/)
+- 💼 LinkedIn: [joao-pedro-dib-garcia-silva-635945406](https://www.linkedin.com/in/jo%C3%A3o-pedro-dib-garcia-silva-/)
 - 📸 Instagram: [@eujotadib](https://www.instagram.com/eujotadib/)
 - 🐙 GitHub: [@jotapedrodev](https://github.com/jotapedrodev)
