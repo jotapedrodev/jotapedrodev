@@ -24,15 +24,6 @@ Estudante de Ciência da Computação, apaixonado por desenvolvimento Full Stack
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=jotapedrodev&show_icons=true&theme=tokyonight" alt="jotapedrodev stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotapedrodev&layout=compact&theme=tokyonight" alt="top langs" height="165" />
-</p>
-
----
-
 ### 📫 Contato
 
 - 💼 LinkedIn: [joao-pedro-dib-garcia-silva-635945406](https://www.linkedin.com/in/joao-pedro-dib-garcia-silva-635945406/)
