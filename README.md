@@ -6,11 +6,10 @@ Estudante de Ciência da Computação, apaixonado por desenvolvimento Full Stack
 
 ---
 
-### Languages and Tools
+### 🧰 Languages and Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,java,python,mysql,mongodb,git,github&theme=dark" alt="Tecnologias" />
 </p>
----
 
 ### 📫 Contato
 
